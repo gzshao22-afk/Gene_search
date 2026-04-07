@@ -1,5 +1,6 @@
 //############# Cell confluency calculation with ImageJ #########################
-
+//############# Step A and C are inputs for Macro, Step B requires manual drawing for best performance
+// Step B could be potentially be trained to be automatic given enough data set
 
 //############# Step A: clean the image #########################################
 // 1. Convert to Grayscale
